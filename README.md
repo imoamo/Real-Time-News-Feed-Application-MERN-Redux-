@@ -3,10 +3,11 @@
 ## 📌 Overview  
 The **News API** provides real-time updates using WebSockets and supports retrieving trending news by category.  
 
-## 🌍 Base URL  
-```
-http://localhost:5000
-```
+## 🌍 Screen Shot
+
+ ![Screenshot (117)](https://github.com/user-attachments/assets/c18b60d5-7bd8-458c-a8ed-bbbb6cf2b0da)
+
+
 *(Update this in production as needed.)*  
 
 ## 🚀 Features  
