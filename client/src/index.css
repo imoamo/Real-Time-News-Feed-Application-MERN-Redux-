@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-gradient-to-r from-blue-500 to-indigo-600 text-gray-100;
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden
+}
+
+h2 {
+  @apply text-3xl font-bold;
+}
